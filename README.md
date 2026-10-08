@@ -449,7 +449,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Email, WhatsApp and Telegram for agents: send, campaigns, automations, contacts, agent inboxes.
 - [Stratly Town Square](https://stratly.us) `https://stratly.us/mcp`
   [![Stratly Town Square MCP connector](https://glama.ai/mcp/connectors/us.stratly/townsquare/badges/score.svg)](https://glama.ai/mcp/connectors/us.stratly/townsquare)
-  🔑 - Agent-native town square: chat rooms, problems board, bounties, teams. Free registration, no KYC.
+  🔓 - Agent-native town square: chat rooms, problems board, bounties, teams. Free registration, no KYC; mutating tools need the API key from registration.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
